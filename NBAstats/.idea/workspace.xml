@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f3c20fa6-b359-431a-9d33-d303b1a8fa5d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="C:\programi\maven\repository" />
+        <option name="userSettingsFile" value="C:\programi\maven\apache-maven-3.6.3-bin\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1c834vWCXQfckusMiAh1Fw2F1zl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../kids/kids_projekat" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Docs\Git\NBAstats\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="NBAstats" />
+      <option name="PROGRAM_PARAMETERS" value="Luka Doncic" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScraper.testInvalidPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBAstats" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScraper" />
+      <option name="METHOD_NAME" value="testInvalidPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScraper.testInvalidPlayerNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBAstats" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScraper" />
+      <option name="METHOD_NAME" value="testInvalidPlayerNumbers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScraper.testValidPlayer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBAstats" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScraper" />
+      <option name="METHOD_NAME" value="testValidPlayer" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScraper.testValidPlayerName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBAstats" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScraper" />
+      <option name="METHOD_NAME" value="testValidPlayerName" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestScraper.testValidStats" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="NBAstats" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="TestScraper" />
+      <option name="METHOD_NAME" value="testValidStats" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestScraper.testValidStats" />
+        <item itemvalue="JUnit.TestScraper.testInvalidPlayer" />
+        <item itemvalue="JUnit.TestScraper.testValidPlayerName" />
+        <item itemvalue="JUnit.TestScraper.testInvalidPlayerNumbers" />
+        <item itemvalue="JUnit.TestScraper.testValidPlayer" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f3c20fa6-b359-431a-9d33-d303b1a8fa5d" name="Default Changelist" comment="" />
+      <created>1589896205900</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589896205900</updated>
+      <workItem from="1589896211206" duration="11541000" />
+      <workItem from="1589992370874" duration="7219000" />
+      <workItem from="1590006066946" duration="1755000" />
+      <workItem from="1590058760820" duration="5228000" />
+      <workItem from="1590150307596" duration="6870000" />
+      <workItem from="1590165274922" duration="5706000" />
+      <workItem from="1590395959975" duration="8049000" />
+      <workItem from="1590441972146" duration="4484000" />
+      <workItem from="1590498101195" duration="3176000" />
+      <workItem from="1590522862781" duration="5831000" />
+      <workItem from="1590569859615" duration="14658000" />
+      <workItem from="1590765905230" duration="11889000" />
+      <workItem from="1590856116324" duration="6634000" />
+      <workItem from="1590920610703" duration="4002000" />
+      <workItem from="1590934854335" duration="4753000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
